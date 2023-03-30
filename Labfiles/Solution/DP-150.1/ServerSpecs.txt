@@ -1,0 +1,5 @@
+Server Specifications
+
+Memory: Answers can vary depending on the sysem being used
+CPU: Answers can vary depending on the sysem being used
+Storage: Answers can vary depending on the sysem being used
